@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Resume available as PDF at [CV]({{ site.url }}/files/CV.pdf).
+Resume available in PDF at [CV]({{ site.url }}/files/CV.pdf).
