@@ -13,7 +13,7 @@ Rafael Oliveira is a post-doctoral research fellow with the
 [the University of Sydney](https://sydney.edu.au), Australia.
 He is currently working for the Centre for Translational Data Science ([CTDS](https://sydney.edu.au/data-science)) under
 the supervision of Prof. Sally Cripps. 
-He is also affiliated with the ARC training centre in Data Analytics for Resources and Environments 
+He is also part of the ARC training centre in Data Analytics for Resources and Environments 
 ([DARE](https://www.darecentre.org.au/)).
 
 Biography
@@ -21,7 +21,7 @@ Biography
 Rafael received his PhD from the University of Sydney in 2019, where he studied under the supervision of
  [Prof. Fabio Ramos](http://web.it.usyd.edu.au/~framos/Home.html).
  Rafael also holds a Bachelor degree in Electronics and Computer Engineering from the 
- Federal Univesity of Rio de Janeiro ([UFRJ](https://ufrj.br)), Brazil.
+ Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br)), Brazil.
 
 Research interests
 ---
