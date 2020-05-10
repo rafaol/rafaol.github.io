@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+
+<script src="https://bibbase.org/service/mendeley/20eea928-2566-3876-901d-9a50fe4a71d0?jsonp=1&theme=dividers"></script>
