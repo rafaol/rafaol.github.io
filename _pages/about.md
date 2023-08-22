@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Rafael Oliveira is a post-doctoral research fellow with the 
+Rafael Oliveira is a research fellow with the 
 [School of Computer Science](https://sydney.edu.au/engineering/about/school-of-computer-science.html), 
 [the University of Sydney](https://sydney.edu.au), Australia.
 He is currently working for the ARC training centre in Data Analytics for Resources and Environments
