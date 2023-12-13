@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rafael Oliveira is a Senior Research Scientist at Data61, part of the Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia. He is currently working with the Statistical Machine Learning (StatML) group, led by Dr. Petra Kuhnert, under the supervision of Dr. Edwin Bonilla.
+Rafael Oliveira is a Senior Research Scientist at [Data61](https://www.csiro.au/en/about/people/business-units/data61), the data and digital specialist arm of Australia's national science agency, the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://www.csiro.au/)). He is a member of the Statistical Machine Learning (StatML) group, led by Dr. Petra Kuhnert, working under the supervision of [Dr. Edwin Bonilla](https://ebonilla.github.io/).
 
 
 Biography
@@ -25,8 +25,8 @@ led by [Dr. Frank Iorfino](https://www.sydney.edu.au/medicine-health/about/our-p
 
 Research interests
 ---
-Rafael's current research focuses on developing machine learning algorithms for problems stemming from 
-planning under uncertainty and Bayesian inference. In particular, he has been working with Bayesian optimisation, 
-Gaussian processes, kernel methods and Bayesian inference algorithms. In terms of applications, his
-work has been addressing problems in robotics, experimental design and mental health research.
+Rafael's research focuses on developing machine learning algorithms for problems stemming from 
+planning under uncertainty and Bayesian inference. In particular, he has been developing Bayesian optimisation, 
+Gaussian processes, kernel methods and Bayesian inference algorithms. His
+work has been applied to problems in robotics, experimental design and mental health research.
 More detailed information is available at his [publications](publications.md) page.
