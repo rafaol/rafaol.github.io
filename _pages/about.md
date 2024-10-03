@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rafael Oliveira is a Senior Research Scientist at [Data61](https://www.csiro.au/en/about/people/business-units/data61), the data and digital specialist arm of Australia's national science agency, the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://www.csiro.au/)). He is a member of the Statistical Machine Learning (StatML) group, led by Dr. Petra Kuhnert, working under the supervision of [Dr. Edwin Bonilla](https://ebonilla.github.io/).
+Rafael Oliveira is a Senior Research Scientist at [Data61](https://www.csiro.au/en/about/people/business-units/data61), the data and digital specialist arm of Australia's national science agency, the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://www.csiro.au/)). He is a member of the Decisions and Statistical Learning team, led by [Dr. Daniel Steinberg](https://dsteinberg.github.io/index.html), and is working under the supervision of [Dr. Edwin Bonilla](https://ebonilla.github.io/).
 
 
 Biography
@@ -26,7 +26,5 @@ led by [Dr. Frank Iorfino](https://www.sydney.edu.au/medicine-health/about/our-p
 Research interests
 ---
 Rafael's research focuses on developing machine learning algorithms for problems stemming from 
-planning under uncertainty and Bayesian inference. In particular, he has been developing Bayesian optimisation, 
-Gaussian processes, kernel methods and Bayesian inference algorithms. His
-work has been applied to problems in robotics, experimental design and mental health research.
-More detailed information is available at his [publications](publications.md) page.
+planning under uncertainty and Bayesian inference. He has been developing Bayesian optimisation and approximate Bayesian inference algorithms to tackle complex problems where data is potentially scarce and costly obtain. His work has been applied to problems in robotics, experimental design and mental health research.
+More detailed information is available at the [publications](publications.md) page.
