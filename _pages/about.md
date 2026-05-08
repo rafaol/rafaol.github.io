@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Rafael Oliveira is a Senior Research Scientist at [Data61](https://www.csiro.au/en/about/people/business-units/data61), the data and digital specialist arm of Australia's national science agency, the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://www.csiro.au/)). He is a member of the Decisions and Statistical Learning team, led by [Dr. Daniel Steinberg](https://dsteinberg.github.io/index.html), and is working under the supervision of [Dr. Edwin Bonilla](https://ebonilla.github.io/).
+Rafael Oliveira is a [Senior Research Scientist](https://people.csiro.au/d/r/rafael-dossantosdeoliveira) at [Data61](https://www.csiro.au/en/about/people/business-units/data61), the data and digital specialist arm of Australia's national science agency, the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://www.csiro.au/)). He is a member of the Decisions and Statistical Learning team, led by [Dr. Daniel Steinberg](https://dsteinberg.github.io/index.html), and is working under the supervision of [Dr. Edwin Bonilla](https://ebonilla.github.io/).
 
 
 Biography
 ---
 Rafael Oliveira was previously a postdoctoral research fellow at [the University of Sydney](https://sydney.edu.au), Australia.
 There, he worked with multiple teams, including the ARC training centre in Data Analytics for Resources and Environments
-([DARE](https://darecentre.org.au/)) under the supervision of
-[Prof. Sally Cripps](https://www.sydney.edu.au/science/about/our-people/academic-staff/sally-cripps.html)
+([DARE](https://darecentre.org.au/)) under the supervision of [Prof. Sally Cripps](https://scholar.google.com/citations?user=vUWVpc0AAAAJ) 
 and the [Brain and Mind Centre](https://www.sydney.edu.au/brain-mind/) in a
 [project](https://www.sydney.edu.au/news-opinion/news/2020/07/08/ai-medical-research-projects-receive--7-1-million-funding.html)
 led by [Dr. Frank Iorfino](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/frank-iorfino.html). Rafael received his PhD from the University of Sydney in 2019, where he studied under the supervision of
